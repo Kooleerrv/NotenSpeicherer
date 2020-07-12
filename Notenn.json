@@ -1,0 +1,71 @@
+{
+    "Noten": [
+        {
+            "Fach": "Deutsch",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "Englisch",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "Physik",
+            "NotenDatumThema": [
+                {
+                    "Note": "8888",
+                    "Datum": "07/11",
+                    "Thema": "xdvxv"
+                },
+                {
+                    "Note": "6666",
+                    "Datum": "07/11",
+                    "Thema": "xcv"
+                }
+            ]
+        },
+        {
+            "Fach": "Franz",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "GG",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "Mathe",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "Musik",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "GS",
+            "NotenDatumThema": [
+                {
+                    "Note": "39393939",
+                    "Datum": "00/11",
+                    "Thema": "llizfg"
+                }
+            ]
+        },
+        {
+            "Fach": "BG",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "Turnen",
+            "NotenDatumThema": []
+        },
+        {
+            "Fach": "BuS",
+            "NotenDatumThema": [
+                {
+                    "Note": "555",
+                    "Datum": "07/11",
+                    "Thema": "cvvbcvb"
+                }
+            ]
+        }
+    ]
+}
